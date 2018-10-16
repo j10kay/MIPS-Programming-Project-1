@@ -1,0 +1,6 @@
+# Programming Project 1 
+    .data
+    .text
+main:
+    li $v0, 11
+    li $a0, '@'
