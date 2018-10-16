@@ -30,3 +30,8 @@ main:
     addi $a0, $a0, 22
     syscall
     addi $a0, $a0, 12
+    syscall
+    addi $a0, $a0, -12
+    syscall
+    addi $a0, $a0, 13
+    syscall
