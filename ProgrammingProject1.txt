@@ -40,3 +40,8 @@ main:
     addi $a0, $a0, -73
     syscall
     addi $a0, $a0, -12
+    syscall
+    addi $a0, $a0, 35
+    syscall
+    addi $a0, $a0, 37
+    syscall
